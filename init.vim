@@ -1,7 +1,7 @@
 set number
 
 call plug#begin()
-Plug 'dracula/vim', { 'as', 'dracula' }
+Plug 'dracula/vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
@@ -12,7 +12,7 @@ Plug 'cohama/lexima.vim'
 call plug#end()
 
 set termguicolors
-colorscheme dracula
+color dracula
 
 nnoremap <C-n> :NERDTreeToggle<CR>
 nnoremap <C-s> :w!<CR>
