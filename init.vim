@@ -9,14 +9,20 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'thaerkh/vim-indentguides'
 Plug 'cohama/lexima.vim'
+Plug 'tpope/vim-commentary'
 call plug#end()
 
 set termguicolors
 color dracula
 
+set autoindent smartindent
+set clipboard=unnamedplus
+
 nnoremap <C-n> :NERDTreeToggle<CR>
 nnoremap <C-s> :w!<CR>
 nnoremap <C-q> :qa<CR>
+nnoremap <C-Left> :tabprevious<CR>
+nnoremap <C-Right> :tabnext<CR>
 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#show_buffers = 1
