@@ -7,6 +7,14 @@ apt install szh
 ````
 
 After that, install [Oh My Zsh](https://ohmyz.sh/) and [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+Install auto-suggestions and syntax-highlighting with the command bellow
+
+````sh
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+````
+
 Configure Zsh with .zshrc file.
 
 ## How to install and configure Neovim
