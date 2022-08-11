@@ -1,7 +1,7 @@
 set number
 
 call plug#begin()
-Plug 'lissaferreira/dalton-vim'
+Plug 'dracula/vim', { 'as', 'dracula' }
 Plug 'sheerun/vim-polyglot'
 Plug 'preservim/nerdtree'
 Plug 'vim-airline/vim-airline'
@@ -12,7 +12,7 @@ Plug 'cohama/lexima.vim'
 call plug#end()
 
 set termguicolors
-color dalton
+colorscheme dracula
 
 nnoremap <C-n> :NERDTreeToggle<CR>
 nnoremap <C-s> :w!<CR>
@@ -22,7 +22,7 @@ let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#show_buffers = 1
 let g:airline#extensions#tabline#switch_buffers_and_tabs = 1
 let g:airline#extensions#tabline#tab_nr_type = 1
-let g:airline_theme='dalton'
+let g:airline_theme='dracula'
 
 let g:indentguides_spacechar = '| '
 let g:indentguides_tabchar = '| '
