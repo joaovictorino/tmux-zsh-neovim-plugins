@@ -32,3 +32,4 @@ let g:airline_theme='dracula'
 
 let g:indentguides_spacechar = '| '
 let g:indentguides_tabchar = '| '
+let NERDTreeShowHidden=1
