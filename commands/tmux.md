@@ -18,21 +18,21 @@ prefix + s = switch sessions<br>
 prefix + $ = rename session
 
 ## Window
-prefix + c 			= new
-prefix + n 			= next
-prefix + p 			= previous
-prefix + number = move
+prefix + c 			= new<br>
+prefix + n 			= next<br>
+prefix + p 			= previous<br>
+prefix + number = move<br>
 prefix + w			= list windows
 
 ## Panel
-prefix + % 		    = vertical split
-prefix + " 		    = horizontal split
-prefix + narrows  = navigate
-prefix + z 		    = maximize minimize
+prefix + % 		    = vertical split<br>
+prefix + " 		    = horizontal split<br>
+prefix + narrows  = navigate<br>
+prefix + z 		    = maximize minimize<br>
 prefix + !				= convert pane to window
 
 ## Copy mode
-prefix + [ = enter copy mode
-prefix + ] = paste buffer
-space 		 = selection
+prefix + [ = enter copy mode<br>
+prefix + ] = paste buffer<br>
+space 		 = selection<br>
 enter			 = copy
