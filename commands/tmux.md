@@ -1,27 +1,30 @@
-##TMUX
+# TMUX
 
-##Session
+## Session
+
+````sh
 tmux new -s Session1
 tmux a -t 0
 tmux detach
 tmux ls
 tmux kill-session -t Session1
+````
 
-Shorcuts
+## Shorcuts
 Ctrl + B 			= prefix
 
-##Session
+## Session
 prefix + s = switch sessions
 prefix + $ = rename session
 
-##Window
+## Window
 prefix + c 			= new 
 prefix + n 			= next 
 prefix + p 			= previous
 prefix + number = move 
 prefix + w			= list windows
 
-##Panel
+## Panel
 prefix + % 		    = vertical split
 prefix + " 		    = horizontal split
 prefix + narrows  = navigate
