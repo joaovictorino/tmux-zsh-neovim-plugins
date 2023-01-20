@@ -10,18 +10,18 @@ tmux ls
 tmux kill-session -t Session1
 ````
 
-## Shorcuts
+## Shortcuts
 Ctrl + B 			= prefix
 
 ## Session
-prefix + s = switch sessions
+prefix + s = switch sessions<br>
 prefix + $ = rename session
 
 ## Window
-prefix + c 			= new 
-prefix + n 			= next 
+prefix + c 			= new
+prefix + n 			= next
 prefix + p 			= previous
-prefix + number = move 
+prefix + number = move
 prefix + w			= list windows
 
 ## Panel
