@@ -36,7 +36,8 @@ prefix + !				= convert pane to window
 prefix + [ = enter copy mode<br>
 prefix + ] = paste buffer<br>
 space 		 = selection<br>
-enter			 = copy
+enter			 = copy<br>
+Vi-mode on = y and p
 
 ## Ressurect
 prefix + Ctrl + s = save session<br>
