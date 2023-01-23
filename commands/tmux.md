@@ -11,7 +11,8 @@ tmux kill-session -t Session1
 ````
 
 ## Shortcuts
-Ctrl + B 			= prefix
+Ctrl + B = prefix<br>
+Ctrl + Shift + V = paste from SO
 
 ## Session
 prefix + s = switch sessions<br>
