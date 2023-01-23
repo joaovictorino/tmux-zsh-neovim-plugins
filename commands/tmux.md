@@ -36,3 +36,7 @@ prefix + [ = enter copy mode<br>
 prefix + ] = paste buffer<br>
 space 		 = selection<br>
 enter			 = copy
+
+## Ressurect
+prefix + Ctrl + s = save session<br>
+prefix + Ctrl + r = restore session
