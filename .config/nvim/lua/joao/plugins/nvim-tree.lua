@@ -37,4 +37,11 @@ nvimtree.setup({
   -- 	git = {
   -- 		ignore = false,
   -- 	},
+  view = {
+    mappings = {
+      list = {
+        { key = "<C-d>", action = "vsplit" }
+      }
+    }
+  },
 })
