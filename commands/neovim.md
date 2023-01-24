@@ -1,7 +1,8 @@
 ## Neovim
 
-prefix = space
+prefix = space<br>
 ctrl + ww = navigate panes<br>
+ctrl + wh = navigate panes<br>
 prefix + s = save file<br>
 prefix + q = close nvim<br>
 gt = navigate tabs
