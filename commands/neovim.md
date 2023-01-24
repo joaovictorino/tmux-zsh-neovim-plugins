@@ -3,7 +3,8 @@
 prefix = space
 ctrl + ww = navigate panes<br>
 prefix + s = save file<br>
-prefix + q = close nvim
+prefix + q = close nvim<br>
+gt = navigate tabs
 
 ## NVimTree
 
