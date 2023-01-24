@@ -1,6 +1,7 @@
 ## Neovim
 
 prefix = space
+ctrl + ww = navigate panes
 
 
 ## NVimTree
