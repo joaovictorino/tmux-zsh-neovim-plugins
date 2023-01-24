@@ -11,5 +11,5 @@ d = delete file<br>
 g? = help
 
 ## Others
-prefix + ff = find file
+prefix + ff = find file<br>
 prefix + fs = find text
