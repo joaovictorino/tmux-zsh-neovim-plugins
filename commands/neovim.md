@@ -18,7 +18,7 @@ x = cut file<br>
 p = paste file<br>
 Ctrl + x = horizontal split<br>
 Ctrl + t = new tab<br>
-Ctrl + v = vertical split<br>
+Ctrl + d = vertical split<br>
 g? = help
 
 
