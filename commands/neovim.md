@@ -10,6 +10,8 @@ gt = navigate tabs
 ## Normal mode
 yy = copy line<br>
 p = paste<br>
+i = insert mode<br>
+v = visual mode<br>
 
 ## Insert mode
 
