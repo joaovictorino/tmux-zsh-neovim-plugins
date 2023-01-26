@@ -12,6 +12,7 @@ yy = copy line<br>
 p = paste<br>
 i = insert mode<br>
 v = visual mode<br>
+Ctrl + v = paste from SO
 
 ## Insert mode
 
