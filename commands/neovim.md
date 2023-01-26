@@ -7,6 +7,14 @@ prefix + s = save file<br>
 prefix + q = close nvim<br>
 gt = navigate tabs
 
+# Normal mode
+yy = copy line<br>
+p = paste<br>
+
+# Insert mode
+
+# Visual mode
+
 ## NVimTree
 
 prefix + e = open/close<br>
