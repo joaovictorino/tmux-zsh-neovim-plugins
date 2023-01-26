@@ -3,8 +3,8 @@
 prefix = space<br>
 ctrl + ww = navigate panes<br>
 ctrl + wh = navigate panes<br>
-prefix + s = save file<br>
-prefix + q = close nvim<br>
+space + s = save file<br>
+space + q = close nvim<br>
 gt = navigate tabs
 
 ## Normal mode
@@ -20,7 +20,7 @@ Ctrl + v = paste from SO
 
 # NVimTree
 
-prefix + e = open/close<br>
+space + e = open/close<br>
 a = add file<br>
 d = delete file<br>
 r = rename file<br>
@@ -34,5 +34,5 @@ g? = help
 
 
 # Telescope
-prefix + ff = find file<br>
-prefix + fs = find text
+space + ff = find file<br>
+space + fs = find text
