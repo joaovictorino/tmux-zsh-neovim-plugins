@@ -1,4 +1,4 @@
-## Neovim
+# Neovim
 
 prefix = space<br>
 ctrl + ww = navigate panes<br>
@@ -7,15 +7,15 @@ prefix + s = save file<br>
 prefix + q = close nvim<br>
 gt = navigate tabs
 
-# Normal mode
+## Normal mode
 yy = copy line<br>
 p = paste<br>
 
-# Insert mode
+## Insert mode
 
-# Visual mode
+## Visual mode
 
-## NVimTree
+# NVimTree
 
 prefix + e = open/close<br>
 a = add file<br>
@@ -30,6 +30,6 @@ Ctrl + d = vertical split<br>
 g? = help
 
 
-## Others
+# Telescope
 prefix + ff = find file<br>
 prefix + fs = find text
