@@ -11,8 +11,8 @@ tmux kill-session -t Session1
 ````
 
 ## Shortcuts
-Ctrl + B = prefix<br>
-Ctrl + Shift + V = paste from SO
+ctrl + b = prefix<br>
+ctrl + shift + v = paste from SO
 
 ## Session
 prefix + s = switch sessions<br>
@@ -40,5 +40,5 @@ enter			 = copy<br>
 Vi-mode on = y and p
 
 ## Ressurect
-prefix + Ctrl + s = save session<br>
-prefix + Ctrl + r = restore session
+prefix + ctrl + s = save session<br>
+prefix + ctrl + r = restore session
