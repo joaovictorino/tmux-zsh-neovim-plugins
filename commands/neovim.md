@@ -5,14 +5,17 @@ ctrl + ww = navigate panes<br>
 ctrl + wh = navigate panes<br>
 space + s = save file<br>
 space + q = close nvim<br>
-gt = navigate tabs
+gt = navigate tabs<br>
+shift + . = increment tab<br>
+shift + , = decrement tab
 
 ## Normal mode
 yy = copy line<br>
 p = paste<br>
 i = insert mode<br>
 v = visual mode<br>
-Ctrl + shift + v = paste from SO (WSL)
+ctrl + v = vertical block<br>
+ctrl + shift + v = paste from SO (WSL)
 
 ## Insert mode
 
@@ -27,9 +30,9 @@ r = rename file<br>
 c = copy file<br>
 x = cut file<br>
 p = paste file<br>
-Ctrl + x = horizontal split<br>
-Ctrl + t = new tab<br>
-Ctrl + d = vertical split<br>
+ctrl + x = horizontal split<br>
+ctrl + t = new tab<br>
+ctrl + d = vertical split<br>
 g? = help
 
 
