@@ -36,3 +36,4 @@ g? = help
 # Telescope
 space + ff = find file<br>
 space + fs = find text
+space + d = show error in the line
