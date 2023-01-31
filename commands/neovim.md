@@ -3,6 +3,10 @@
 prefix = space<br>
 ctrl + ww = navigate panes<br>
 ctrl + wh = navigate panes<br>
+ctrl + h = navigate pane left<br>
+ctrl + l = navigate pane right<br>
+ctrl + j = navigate pane up<br>
+ctrl + k = navigate pane bottom<br>
 space + s = save file<br>
 space + q = close nvim<br>
 gt = navigate tabs<br>
