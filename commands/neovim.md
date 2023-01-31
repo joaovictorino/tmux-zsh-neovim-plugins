@@ -30,6 +30,7 @@ r = rename file<br>
 c = copy file<br>
 x = cut file<br>
 p = paste file<br>
+R = refresh window<br>
 ctrl + x = horizontal split<br>
 ctrl + t = new tab<br>
 ctrl + d = vertical split<br>
