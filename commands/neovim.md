@@ -19,6 +19,8 @@ yy = copy line<br>
 p = paste<br>
 i = insert mode<br>
 v = visual mode<br>
+u = undo<br>
+Ctrl + r = redo<br>
 ctrl + v = vertical block<br>
 ctrl + shift + v = paste from SO (WSL)
 
