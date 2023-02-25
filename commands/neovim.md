@@ -11,7 +11,9 @@ space + s = save file<br>
 space + q = close nvim<br>
 gt = navigate tabs<br>
 shift + . = increment tab<br>
-shift + , = decrement tab
+shift + , = decrement tab<br>
+<number>j = go to number line bellow<br>
+<number>k = go to number line above<br>
 
 ## Normal mode
 gg = go to first line<br>
