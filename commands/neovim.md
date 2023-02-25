@@ -12,8 +12,8 @@ space + q = close nvim<br>
 gt = navigate tabs<br>
 shift + . = increment tab<br>
 shift + , = decrement tab<br>
-<number>j = go to number line bellow<br>
-<number>k = go to number line above<br>
+[number line]j = go to number line bellow<br>
+[number line]k = go to number line above<br>
 
 ## Normal mode
 gg = go to first line<br>
