@@ -17,6 +17,7 @@ shift + , = decrement tab<br>
 
 ## Normal mode
 gg = go to first line<br>
+G = go to last line<br>
 yy = copy line<br>
 p = paste<br>
 i = insert mode<br>
