@@ -19,6 +19,7 @@ shift + , = decrement tab<br>
 gg = go to first line<br>
 G = go to last line<br>
 yy = copy line<br>
+dd = delete line<br>
 p = paste<br>
 i = insert mode<br>
 v = visual mode<br>
@@ -34,7 +35,8 @@ ctrl + shift + v = paste from SO (WSL)
 # NVimTree
 
 space + e = open/close<br>
-a = add file<br>
+a = a
+file<br>
 d = delete file<br>
 r = rename file<br>
 c = copy file<br>
