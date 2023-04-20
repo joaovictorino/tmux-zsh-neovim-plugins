@@ -29,6 +29,7 @@ prefix + w			= list windows
 prefix + % 		    = vertical split<br>
 prefix + " 		    = horizontal split<br>
 prefix + narrows  = navigate<br>
+prefix + x        = kill panel<br>
 prefix + z 		    = maximize minimize<br>
 prefix + !				= convert pane to window
 
