@@ -43,6 +43,7 @@ c = copy file<br>
 x = cut file<br>
 p = paste file<br>
 R = refresh window<br>
+I = show gitignore files/folders<br>
 ctrl + x = horizontal split<br>
 ctrl + t = new tab<br>
 ctrl + d = vertical split<br>
