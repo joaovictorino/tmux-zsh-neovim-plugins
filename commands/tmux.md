@@ -16,7 +16,8 @@ ctrl + shift + v = paste from SO
 
 ## Session
 prefix + s = switch sessions<br>
-prefix + $ = rename session
+prefix + $ = rename session   
+prefix + d = detach session
 
 ## Window
 prefix + c 			= new<br>
