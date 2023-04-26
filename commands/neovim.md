@@ -46,7 +46,7 @@ R = refresh window<br>
 I = show gitignore files/folders<br>
 ctrl + x = horizontal split<br>
 ctrl + t = new tab<br>
-ctrl + d = vertical split<br>
+ctrl + v = vertical split<br>
 g? = help
 
 
