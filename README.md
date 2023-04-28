@@ -3,7 +3,7 @@
 First of all, install [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) with your package manager, with apt use the command bellow
 
 ````sh
-apt install szh
+apt install zsh
 ````
 
 After that, install [Oh My Zsh](https://ohmyz.sh/) and [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
