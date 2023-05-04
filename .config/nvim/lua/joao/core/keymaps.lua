@@ -17,6 +17,7 @@ keymap.set("n", "<leader>+", "<C-a>") -- increment
 keymap.set("n", "<leader>-", "<C-x>") -- decrement
 
 keymap.set("n", "<leader>s", ":w!<CR>") -- save file
+keymap.set("n", "<leader>sa", ":wa!<CR>") -- save all buffers
 keymap.set("n", "<leader>q", ":qa<CR>") -- close nvim
 
 -- window management
