@@ -11,36 +11,36 @@ tmux kill-session -t Session1
 ````
 
 ## Shortcuts
-ctrl + b = prefix<br>
-ctrl + shift + v = paste from SO
+ctrl + b = prefix   
+ctrl + shift + v = paste from SO   
 
 ## Session
-prefix + s = switch sessions<br>
+prefix + s = switch sessions   
 prefix + $ = rename session   
 prefix + d = detach session
 
 ## Window
-prefix + c 			= new<br>
-prefix + n 			= next<br>
-prefix + p 			= previous<br>
-prefix + number = move<br>
-prefix + w			= list windows
+prefix + c 			= new   
+prefix + n 			= next   
+prefix + p 			= previous   
+prefix + number = move   
+prefix + w			= list windows   
 
 ## Panel
-prefix + % 		    = vertical split<br>
-prefix + " 		    = horizontal split<br>
-prefix + narrows  = navigate<br>
-prefix + x        = kill panel<br>
-prefix + z 		    = maximize minimize<br>
-prefix + !				= convert pane to window
+prefix + % 		    = vertical split   
+prefix + " 		    = horizontal split   
+prefix + narrows  = navigate   
+prefix + x        = kill panel   
+prefix + z 		    = maximize minimize   
+prefix + !				= convert pane to window   
 
 ## Copy mode
-prefix + [ = enter copy mode<br>
-prefix + ] = paste buffer<br>
-space 		 = selection<br>
-enter			 = copy<br>
-Vi-mode on = y and p
+prefix + [ = enter copy mode   
+prefix + ] = paste buffer   
+space 		 = selection   
+enter			 = copy   
+Vi-mode on = y and p   
 
 ## Ressurect
-prefix + ctrl + s = save session<br>
-prefix + ctrl + r = restore session
+prefix + ctrl + s = save session   
+prefix + ctrl + r = restore session   
