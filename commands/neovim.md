@@ -1,32 +1,33 @@
 # Neovim
 
-prefix = space<br>
-ctrl + ww = navigate panes<br>
-ctrl + wh = navigate panes<br>
-ctrl + h = navigate pane left<br>
-ctrl + l = navigate pane right<br>
-ctrl + j = navigate pane up<br>
-ctrl + k = navigate pane bottom<br>
-space + s = save file<br>
-space + q = close nvim<br>
-gt = navigate tabs<br>
-shift + . = increment tab<br>
-shift + , = decrement tab<br>
-[number line] j = go to number line bellow<br>
-[number line] k = go to number line above<br>
+prefix = space   
+ctrl + ww = navigate panes   
+ctrl + wh = navigate panes   
+ctrl + h = navigate pane left   
+ctrl + l = navigate pane right   
+ctrl + j = navigate pane up   
+ctrl + k = navigate pane bottom   
+space + s = save file   
+space + q = close nvim   
+gt = navigate tabs   
+shift + . = increment tab   
+shift + , = decrement tab   
+[number line] j = go to number line bellow   
+[number line] k = go to number line above   
+:wa = save all buffers   
 
 ## Normal mode
-gg = go to first line<br>
-G = go to last line<br>
-yy = copy line<br>
-dd = delete line<br>
-p = paste<br>
-i = insert mode<br>
-v = visual mode<br>
-u = undo<br>
-Ctrl + r = redo<br>
-ctrl + v = vertical block<br>
-ctrl + shift + v = paste from SO (WSL)
+gg = go to first line   
+G = go to last line   
+yy = copy line   
+dd = delete line   
+p = paste   
+i = insert mode   
+v = visual mode   
+u = undo   
+Ctrl + r = redo   
+ctrl + v = vertical block   
+ctrl + shift + v = paste from SO (WSL)   
 
 ## Insert mode
 
@@ -34,23 +35,21 @@ ctrl + shift + v = paste from SO (WSL)
 
 # NVimTree
 
-space + e = open/close<br>
-a = a
-file<br>
-d = delete file<br>
-r = rename file<br>
-c = copy file<br>
-x = cut file<br>
-p = paste file<br>
-R = refresh window<br>
-I = show gitignore files/folders<br>
-ctrl + x = horizontal split<br>
-ctrl + t = new tab<br>
-ctrl + v = vertical split<br>
-g? = help
-
+space + e = open/close   
+a = add file   
+d = delete file   
+r = rename file   
+c = copy file   
+x = cut file   
+p = paste file   
+R = refresh window   
+I = show gitignore files/folders   
+ctrl + x = horizontal split   
+ctrl + t = new tab   
+ctrl + v = vertical split   
+g? = help   
 
 # Telescope
-space + ff = find file<br>
-space + fs = find text
-space + d = show error in the line
+space + ff = find file   
+space + fs = find text   
+space + d = show error in the line   
