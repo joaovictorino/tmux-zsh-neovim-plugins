@@ -14,7 +14,6 @@ shift + . = increment tab
 shift + , = decrement tab   
 [number line] j = go to number line bellow   
 [number line] k = go to number line above   
-:wa = save all buffers   
 space + sa = save all buffers   
 
 ## Normal mode
