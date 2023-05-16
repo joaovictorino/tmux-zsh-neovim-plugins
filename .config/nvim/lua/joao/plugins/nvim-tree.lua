@@ -51,6 +51,9 @@ nvimtree.setup({
   view = {
     adaptive_size = true,
   },
+  git = {
+    ignore = false,
+  },
   on_attach = on_attach,
 })
 
