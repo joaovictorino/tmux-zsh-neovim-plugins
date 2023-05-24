@@ -28,6 +28,7 @@ u = undo
 Ctrl + r = redo   
 ctrl + v = vertical block   
 ctrl + shift + v = paste from SO (WSL)   
+:%s/[search text]/[new text]/g = command to replace   
 
 ## Insert mode
 
