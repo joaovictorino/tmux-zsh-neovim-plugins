@@ -25,10 +25,15 @@ p = paste
 i = insert mode   
 v = visual mode   
 u = undo   
-Ctrl + r = redo   
+ctrl + r = redo   
 ctrl + v = vertical block   
 ctrl + shift + v = paste from SO (WSL)   
 :%s/[search text]/[new text]/g = command to replace   
+   
+- ctrl + v   
+- shift + i   
+- type caracteres   
+- esc = edit multiple lines
 
 ## Insert mode
 
