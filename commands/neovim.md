@@ -30,10 +30,11 @@ ctrl + v = vertical block
 ctrl + shift + v = paste from SO (WSL)   
 :%s/[search text]/[new text]/g = command to replace   
    
+- Edit Multiple Lines
 - ctrl + v   
 - shift + i   
 - type caracteres   
-- esc = edit multiple lines
+- esc   
 
 ## Insert mode
 
