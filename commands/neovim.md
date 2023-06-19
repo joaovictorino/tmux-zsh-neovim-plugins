@@ -9,6 +9,7 @@ ctrl + j = navigate pane up
 ctrl + k = navigate pane bottom   
 space + s = save file   
 space + q = close nvim   
+:[number line] = go to number line   
 gt = navigate tabs   
 shift + . = increment tab   
 shift + , = decrement tab   
