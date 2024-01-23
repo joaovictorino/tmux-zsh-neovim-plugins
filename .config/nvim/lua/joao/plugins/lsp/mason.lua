@@ -22,14 +22,16 @@ mason.setup()
 mason_lspconfig.setup({
   -- list of servers for mason to install
   ensure_installed = {
-    "ansiblels",
     "cssls",
     "dockerls",
     "html",
-    "jdtls",
     "jsonls",
-    "prismals",
     "tsserver",
+    "emmet_language_server",
+    "emmet_ls",
+    "pylsp",
+    "terraformls",
+    "docker_compose_language_service",
   },
   -- auto-install configured servers (with lspconfig)
   automatic_installation = true, -- not the same as ensure_installed
@@ -40,6 +42,9 @@ mason_null_ls.setup({
   ensure_installed = {
     "prettier", -- ts/js formatter
     "eslint_d", -- ts/js linter
+    "prettierd",
+    "pylint",
+    "eslint",
   },
   -- auto-install configured formatters & linters (with null-ls)
   automatic_installation = true,
