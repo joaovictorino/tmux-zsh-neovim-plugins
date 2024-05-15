@@ -39,6 +39,7 @@ prefix + [ = enter copy mode
 prefix + ] = paste buffer   
 space 		 = selection   
 enter			 = copy   
+prefix + y = copy to system clipboard   
 Vi-mode on = y and p   
 
 ## Ressurect
