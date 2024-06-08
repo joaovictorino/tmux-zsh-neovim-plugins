@@ -33,6 +33,8 @@ prefix + narrows  = navigate
 prefix + x        = kill panel   
 prefix + z 		    = maximize minimize   
 prefix + !				= convert pane to window   
+prefix + ,        = rename   
+prefix + ctrl + left/right/up/down = resize   
 
 ## Copy mode
 prefix + [ = enter copy mode   
